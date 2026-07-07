@@ -1,0 +1,6 @@
+blocked_urls = [
+    "badsite.example.com",
+    "malware.example.com",
+    "phishing.example.com",
+    "threat.example.com",
+    ]
