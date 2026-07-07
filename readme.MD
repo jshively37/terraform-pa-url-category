@@ -32,6 +32,6 @@ To install Terraform, use the following link: https://developer.hashicorp.com/te
 
 ## Adding URLs to block category
 * Copy `terraform.tfvars.example` to `terraform.tfvars` file.
-* Add in the FQDNs you would like to block.
+* Add in the FQDNs you would like to block in `terraform.tfvars`.
 * Run `terraform plan`.
 * If you are happy with the output run `terraform apply`.
